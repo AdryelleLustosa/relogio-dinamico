@@ -1,0 +1,42 @@
+body {
+    margin: auto;
+    margin-top: 2vw;
+    width: 35vmax;
+   
+
+}
+
+#titulo {
+
+    text-align: center;
+    color: white;
+    font-size: 40px;
+
+}
+
+#espaçoRelogio {
+
+    height: 28vmax;
+    background-color:white;
+    border-radius: 10px;
+     
+}
+
+#relogioFoto {
+
+    
+    margin: auto;
+    margin-top: 2vmax;
+    height: 20vmax;
+    width: 20vmax;
+    border-radius: 50%; 
+   
+}
+
+#resultado {
+
+    font-size: 25px;
+    text-align: center;
+    padding-top: 25px;                 
+
+}
